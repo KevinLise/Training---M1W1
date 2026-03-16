@@ -1,24 +1,23 @@
 # Training-M1W1
 # Class Attendance Checker
 
-#Presentacio
-
-Hello, my name is Kevin Escorcia.
-
-This project is called Class Attendance Checker.
-It is a simple Python program that evaluates student attendance.
-
-The program asks the user to enter the number of classes attended and checks the result using conditional statements.
-
-Finally, the program shows if the attendance is low, medium, or high.
-
 ## Description
 
 This project is a simple Python program that evaluates student attendance.
 
-It is a basic script that analyzes the number of classes attended.  
+It is a basic script that analyzes the number of classes attended.
 The program is a simple example of conditional logic in Python.
 
+## Presentation
+
+Hello, my name is **Kevin Escorcia**.
+
+This project is called **Class Attendance Checker**.
+It is a simple Python program that evaluates student attendance.
+
+The program asks the user to enter the number of classes attended and checks the result using conditional statements.
+
+Finally, the program shows if the attendance is **low**, **medium**, or **high**.
 
 ## How it works
 
@@ -35,4 +34,5 @@ Currently, the system is processing the user input and evaluating the attendance
 
 ## Status
 
-> This project is a basic educational example that demonstrates Python conditional statements.
+This project is a basic educational example that demonstrates Python conditional statements.
+
