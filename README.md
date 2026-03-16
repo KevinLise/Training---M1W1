@@ -1,6 +1,8 @@
 # Training-M1W1
 # Class Attendance Checker
+
 #Presentacio
+
 Hello, my name is Kevin Escorcia.
 
 This project is called Class Attendance Checker.
